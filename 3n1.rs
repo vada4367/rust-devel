@@ -1,7 +1,7 @@
  
 fn main(){
-    let a :u128 = 97896903033925991790370000000000000;
-    let mut b :u128 = 9789690303392599179035;
+    let a :u128 = 1000000;
+    let mut b :u128 = 1;
     while b <= a{
         let mut c :u128 = b;
         let mut check :bool = false;
